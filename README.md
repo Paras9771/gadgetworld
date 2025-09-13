@@ -22,9 +22,7 @@ Clone the repository:
 git clone https://github.com/Paras9771/gadgetworld
 
 Navigate to the project folder:
-cd <project-folder>
-
-Open the files: Open any HTML file (index.html, about.html, contact.html, add-to-cart.html) in your browser.
+cd gadgetworld
 
 5. 🌐Live Demo
 Check out the live version of the website here:
