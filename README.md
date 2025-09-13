@@ -35,7 +35,8 @@ add-to-cart.html     # User shopping cart page
 about.html           # Company info
 contact.html         # Contact page with form & map
 index.html           # Homepage
+Products.html        #Products info
 assets/              # Images, CSS, JS
 
-7. ✍️ Author
+8. ✍️ Author
 Design & Code by: Paras Store
