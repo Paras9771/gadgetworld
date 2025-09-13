@@ -2,11 +2,12 @@ Paras Store - E-Commerce Website
 Welcome to Paras Store, your ultimate destination for cutting-edge gadgets! Explore the latest in tech innovation and style with us. Shop now and discover a world of possibilities!
 
 🌐 Live Demo
-Experience the website in action:
+Experience the website in action: https://allgadgetzone.netlify.app/
 
-👉 Visit Paras Store
+👉 Visit Paras Store 
+https://allgadgetzone.netlify.app/
+
 📋 Key Features
-
 Product Display: Showcase products with images, names, and prices on a dedicated products page.
 Shopping Cart: Add items, adjust quantities, and see a summary including subtotal, tax, and total price.
 Intuitive Navigation: Easy links to Home, About, Products, Contact, and Cart.
