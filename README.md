@@ -19,7 +19,7 @@ Font Awesome: Icons for UI elements.
 4. 🚀How to Run Locally
 
 Clone the repository:
-git clone <repository-url>
+git clone https://github.com/Paras9771/gadgetworld
 
 Navigate to the project folder:
 cd <project-folder>
